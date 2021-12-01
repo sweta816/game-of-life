@@ -32,3 +32,5 @@ John is an experienced consultant and trainer specialising in Enterprise Java, W
 hey sweta here
 
 hey again sweta 
+
+for push just use "git push -u origin master"
